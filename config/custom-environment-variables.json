@@ -1,4 +1,3 @@
 {
-  "jwtPrivateKey": "vidly_jwtPrivateKey",
-  "db": "Movie-App"
+  "jwtPrivateKey": "vidly_jwtPrivateKey"
 }
